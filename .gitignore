@@ -1,0 +1,5 @@
+firmware/tp3_wifi_json/data/config.json
+.venv/
+__pycache__/
+*.bin
+.DS_Store

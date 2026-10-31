@@ -1,0 +1,39 @@
+{
+  "status": {
+    "temperature": 26.5,
+    "light": 1059,
+    "regul": "RUNNING",
+    "fire": false,
+    "heat": "OFF",
+    "cold": "ON",
+    "fanspeed": 46
+  },
+  "location": {
+    "room": "Salle TP IoT",
+    "gps": {
+      "lat": 33.5731,
+      "lon": -7.5898
+    },
+    "address": "EMSI Casablanca - site CFC"
+  },
+  "regul": {
+    "lt": 22,
+    "ht": 26
+  },
+  "info": {
+    "ident": "ESP32 CDCF8C",
+    "user": "Malak Zaoufy & Zakaria Khamlich",
+    "loc": "EMSI Casablanca"
+  },
+  "net": {
+    "uptime": "1729",
+    "ssid": "iPhone M",
+    "mac": "BC:DD:C2:CD:CF:8C",
+    "ip": "172.20.10.3"
+  },
+  "reporthost": {
+    "target_ip": "172.20.10.6",
+    "target_port": 1880,
+    "sp": 5
+  }
+}

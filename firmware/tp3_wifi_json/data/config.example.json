@@ -1,0 +1,4 @@
+{
+  "wifi":  { "ssid": "MON_RESEAU", "password": "MON_MOT_DE_PASSE" },
+  "regul": { "lt": 22, "ht": 26 }
+}
